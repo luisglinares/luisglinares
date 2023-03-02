@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about GitHub and Python
+- 🔭 I’m currently working on Web Developing 
+- 👯 I’m looking to collaborate on public projects that help me to improve my skills
+
 <!--
 **luisglinares/luisglinares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
